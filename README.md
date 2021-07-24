@@ -1,6 +1,6 @@
 # Blur UIViewController background
 
-<!-- This demo project is associated with my article [Blur UIViewController background](https://yaacoub.github.io/articles/swift-tips/blur-uiviewcontroller-background/). -->
+This demo project is associated with my article [Blur UIViewController background](https://yaacoub.github.io/articles/swift-tip/blur-uiviewcontroller-background/).
 
 ### Availability
 
